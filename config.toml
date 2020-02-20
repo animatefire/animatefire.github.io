@@ -1,0 +1,14 @@
+baseURL = "github.animatefire.io"
+languageCode = "en-us"
+title = "animatefire"
+theme = "hello-friend-ng"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
